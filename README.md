@@ -3,12 +3,20 @@
 <p align="center">
  <a href="#-objetivo">Objetivo</a> -
  <a href="#-status-do-projeto">Status do projeto</a> - 
+  <a href="#-cursos">Cursos</a>-
  <a href="#-autor">Autor</a>
 </p>
 
 ## Objetivo:
 
 Repositorio criado para codar meus exercicios dos cursos de programação.
+
+# Cursos
+
+[_ProgramadorBR_](https://programadorbr.com/) <br>
+[_Rocketseat_](https://rocketseat.com.br)
+
+
 
 ## 💡 STATUS DO PROJETO:
 
