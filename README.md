@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
- <a href="#-objetivo">Objetivo</a> -
+<a href="#-objetivo">Objetivo</a> -
+<a href="#-cursos">Cursos</a> -
  <a href="#-status-do-projeto">Status do projeto</a> - 
-  <a href="#-cursos">Cursos</a>-
- <a href="#-autor">Autor</a>
+<a href="#-autor">Autor</a>
 </p>
 
 ## Objetivo
