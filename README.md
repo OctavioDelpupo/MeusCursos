@@ -4,18 +4,19 @@
 <br>
 </p>
 
+<!-- Sumario -->
 <p align="center">
 <a href="#-objetivo">Objetivo</a> -
 <a href="#-cursos">Cursos</a> -
- <a href="#-status-do-projeto">Status do projeto</a> - 
+<a href="#-status-do-projeto">Status do projeto</a> - 
 <a href="#-autor">Autor</a>
 </p>
 
-## Objetivo
+# 🎯 OBJETIVO
 
 Repositório criado para codar meus desafios de programação.
 
-# 📚 Cursos 
+# 📚 CURSOS 
 
 <!-- ProgramadorBR -->
 <details>
@@ -28,7 +29,7 @@ Repositório criado para codar meus desafios de programação.
 <details>
 <summary><strong>Rocketseat</strong></summary>
 <br>
-<div align="left"></div>
+<div align="left">
 </details>
 
 
@@ -36,7 +37,7 @@ Repositório criado para codar meus desafios de programação.
 <details>
 <summary><strong>DIO - Digital Innovation one</strong></summary>
 <br>
-<div align="left"></div>
+<div align="left">
         <table border=1>
             <tr>
                 <th colspan="4">Santander Bootcamp Fullstack Developer</th>
@@ -68,6 +69,7 @@ Repositório criado para codar meus desafios de programação.
                 <td><a href="#">Código</a></td>
                 <td align="center"></td>
         </table>
+    </div>
 </details>
 
 
@@ -87,6 +89,6 @@ Repositório criado para codar meus desafios de programação.
 </table>
 
 
-## Contato
+## 📱 CONTATO
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-paulo-dantas-costa/)](https://br.linkedin.com/in/octavio-delpupo)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:0901dantaspedro@gmail.com)](mailto:octavio.delpupo@gmail.com)
