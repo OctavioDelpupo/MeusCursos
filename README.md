@@ -72,9 +72,12 @@ Repositório criado para codar meus desafios de programação.
     </div>
 </details>
 
+## 💡 CURSANDO:
 
+<h3> Santander Bootcamp Fullstack Developer </h3>
+<a href="https://web.dio.me/track/33c858ab-35fb-4170-9193-a9eef8c2ba25"> <img width=150 src="./Img/SDBC.png"> </a>
 
-## 💡 STATUS DO PROJETO:
+## 💡 STATUS DO PROJETO
 
 🚧 Em construção... 🚧
 
